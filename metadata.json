@@ -1,0 +1,6 @@
+
+{
+  "name": "BLUOM Web Search",
+  "description": "A high-performance, client-side search engine powered by a Python crawler and GitHub Actions for daily index updates.",
+  "requestFramePermissions": []
+}

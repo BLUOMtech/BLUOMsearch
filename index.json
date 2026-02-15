@@ -1,0 +1,482 @@
+[
+  {
+    "url": "https://wikipedia.org/",
+    "title": "Wikipedia",
+    "description": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+    "links": 1004
+  },
+  {
+    "url": "https://github.com/",
+    "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+    "description": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+    "links": 1013
+  },
+  {
+    "url": "https://reddit.com/",
+    "title": "Reddit - The heart of the internet",
+    "description": "Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.",
+    "links": 936
+  },
+  {
+    "url": "https://nytimes.com/",
+    "title": "The New York Times - Breaking News, US News, World News and Videos",
+    "description": "Live news, investigations, opinion, photos and video by the journalists of The New York Times from more than 150 countries around the world. Subscribe for coverage of U.S. and international news, politics, business, technology, science, health, arts,",
+    "links": 1007
+  },
+  {
+    "url": "https://theguardian.com/",
+    "title": "Latest news, sport and opinion from the Guardian",
+    "description": "Latest news, sport, comment, analysis and reviews from Guardian Australia",
+    "links": 1119
+  },
+  {
+    "url": "https://bbc.com/",
+    "title": "BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Trave",
+    "description": "Visit BBC for trusted reporting on the latest world and US news, sports, business, climate, innovation, culture and much more.",
+    "links": 1027
+  },
+  {
+    "url": "https://cnn.com/",
+    "title": "Breaking News, Latest News and Videos | CNN",
+    "description": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com.",
+    "links": 1220
+  },
+  {
+    "url": "https://forbes.com/",
+    "title": "Forbes",
+    "description": "Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.",
+    "links": 1196
+  },
+  {
+    "url": "https://techcrunch.com/",
+    "title": "TechCrunch | Startup and Technology News",
+    "description": "TechCrunch | Reporting on the business of technology, startups, venture capital funding, and Silicon Valley",
+    "links": 988
+  },
+  {
+    "url": "https://theverge.com/",
+    "title": "The Verge",
+    "description": "The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.",
+    "links": 900
+  },
+  {
+    "url": "https://wired.com/",
+    "title": "WIRED - The Latest in Technology, Science, Culture and Business | WIRED",
+    "description": "We bring you the future as it happens. From the latest in science and technology to the big stories in business and culture, we've got you covered.",
+    "links": 812
+  },
+  {
+    "url": "https://arstechnica.com/",
+    "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+    "description": "News and reviews, covering IT, AI, science, space, health, gaming, cybersecurity, tech policy, computers, mobile devices, and operating systems.",
+    "links": 850
+  },
+  {
+    "url": "https://engadget.com/",
+    "title": "Engadget | Technology News & Reviews",
+    "description": "Find the latest technology news and expert tech product reviews. Learn about the latest gadgets and consumer tech products for entertainment, gaming, lifestyle and more.",
+    "links": 728
+  },
+  {
+    "url": "https://gizmodo.com/",
+    "title": "Gizmodo | The Future Is Here",
+    "description": "Dive into cutting-edge tech, reviews and the latest trends with the expert team at Gizmodo. Your ultimate source for all things tech.",
+    "links": 900
+  },
+  {
+    "url": "https://dev.to/",
+    "title": "DEV Community",
+    "description": "A space to discuss and keep up software development and manage your software career",
+    "links": 948
+  },
+  {
+    "url": "https://stackoverflow.com/",
+    "title": "Newest Questions - Stack Overflow",
+    "description": "Stack Overflow | The World’s Largest Online Community for Developers",
+    "links": 968
+  },
+  {
+    "url": "https://mozilla.org/",
+    "title": "Internet for people, not profit — Mozilla Global",
+    "description": "Mozilla is the not-for-profit behind the lightning fast Firefox browser. We put people over profit to give everyone more power online.",
+    "links": 701
+  },
+  {
+    "url": "https://apple.com/",
+    "title": "Apple",
+    "description": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+    "links": 704
+  },
+  {
+    "url": "https://microsoft.com/",
+    "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+    "description": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
+    "links": 673
+  },
+  {
+    "url": "https://google.com/",
+    "title": "Google",
+    "description": "© 2026 - Privacy - Terms",
+    "links": 581
+  },
+  {
+    "url": "https://facebook.com/",
+    "title": "Facebook – log in or sign up",
+    "description": "Log in to Facebook to start sharing and connecting with your friends, family and people you know.",
+    "links": 638
+  },
+  {
+    "url": "https://twitter.com/",
+    "title": "X. It’s what’s happening / X",
+    "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+    "links": 589
+  },
+  {
+    "url": "https://linkedin.com/",
+    "title": "LinkedIn: Log In or Sign Up",
+    "description": "1 billion members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+    "links": 707
+  },
+  {
+    "url": "https://instagram.com/",
+    "title": "Instagram",
+    "description": "Create an account or log in to Instagram - Share what you're into with the people who get you.",
+    "links": 589
+  },
+  {
+    "url": "https://youtube.com/",
+    "title": "YouTube",
+    "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
+    "links": 584
+  },
+  {
+    "url": "https://vimeo.com/",
+    "title": "Vimeo - All-in-One Video Platform",
+    "description": "The video platform trusted by 287 million creatives, entrepreneurs, and businesses. Everything you need to create, manage, and share stunning videos.",
+    "links": 724
+  },
+  {
+    "url": "https://rottentomatoes.com/",
+    "title": "Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews | Rotten Tomatoes",
+    "description": "Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies & TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets",
+    "links": 783
+  },
+  {
+    "url": "https://metacritic.com/",
+    "title": "Movie Reviews, TV Reviews, Game Reviews, and Music Reviews - Metacritic",
+    "description": "Metacritic aggregates music, game, tv, and movie reviews from the leading critics. Only Metacritic.com uses METASCORES, which let you know at a glance how each item was reviewed.",
+    "links": 628
+  },
+  {
+    "url": "https://ign.com/",
+    "title": "Video Game News, Reviews, and Walkthroughs - IGN",
+    "description": "IGN is your #1 destination for all video game news, expert reviews, and walkthroughs.",
+    "links": 581
+  },
+  {
+    "url": "https://pcgamer.com/",
+    "title": "PC Gamer",
+    "description": "PC Gamer is your source for exclusive reviews, demos, updates and news on all your favorite PC gaming franchises.",
+    "links": 583
+  },
+  {
+    "url": "https://kotaku.com/",
+    "title": "Kotaku - Gaming Reviews, News, Tips and More.",
+    "description": "The third-party company Discord could use for their ID collection is mired in surveillance concerns and links to Epstein via one of its investors",
+    "links": 545
+  },
+  {
+    "url": "https://polygon.com/",
+    "title": "Polygon: Gaming and Entertainment News, Culture, Reviews, and More",
+    "description": "Your source for the latest in video games, sci-fi, fantasy, tabletop games, anime, horror, books, and comics.",
+    "links": 653
+  },
+  {
+    "url": "https://variety.com/",
+    "title": "Variety - Entertainment news, film reviews, awards, film festivals, box office, entertainment indust",
+    "description": "Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences",
+    "links": 767
+  },
+  {
+    "url": "https://hollywoodreporter.com/",
+    "title": "The Hollywood Reporter – Movie news, TV news, awards news, lifestyle news, business news and more fr",
+    "description": "Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter.",
+    "links": 717
+  },
+  {
+    "url": "https://nationalgeographic.com/",
+    "title": "National Geographic | National Geographic",
+    "description": "Explore National Geographic. A world leader in geography, cartography and exploration.",
+    "links": 586
+  },
+  {
+    "url": "https://smithsonianmag.com/",
+    "title": "Smithsonian Magazine: Explore History, Science, Arts & Culture",
+    "description": "Discover the latest stories in history, archaeology, science, arts and culture from one of the top news magazines. Smithsonian Magazine brings you compelling, in-depth articles every day.",
+    "links": 581
+  },
+  {
+    "url": "https://history.com/",
+    "title": "HISTORY | Topics, Shows and This Day in History",
+    "description": "Fascinating stories from the past you can trust, plus hit shows.",
+    "links": 553
+  },
+  {
+    "url": "https://nasa.gov/",
+    "title": "NASA",
+    "description": "NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research.",
+    "links": 539
+  },
+  {
+    "url": "https://nature.com/",
+    "title": "Nature",
+    "description": "First published in 1869, Nature is the world’s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed research that drives ground-breaking discovery, and is read by thought-leaders and decision-makers around the world.",
+    "links": 453
+  },
+  {
+    "url": "https://scientificamerican.com/",
+    "title": "Scientific American",
+    "description": "Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives.",
+    "links": 449
+  },
+  {
+    "url": "https://newscientist.com/",
+    "title": "New Scientist | Science news, articles, and features",
+    "description": "Science news and long reads from expert journalists, covering developments in science, technology, health and the environment on the website and the magazine.",
+    "links": 437
+  },
+  {
+    "url": "https://webmd.com/",
+    "title": "WebMD - Better information. Better health.",
+    "description": "The leading source for trustworthy and timely health and medical news and information. Providing credible health information, supportive community, and educational services by blending award-winning expertise in content, community services, expert co",
+    "links": 486
+  },
+  {
+    "url": "https://mayoclinic.org/",
+    "title": "The world's best hospital - Mayo Clinic",
+    "description": "Verizon users are currently unable to call Mayo Clinic phone numbers with a 507 area code. Verizon is working to resolve the issue. Please use Patient Portal me",
+    "links": 448
+  },
+  {
+    "url": "https://healthline.com/",
+    "title": "Healthline: Medical information and health advice you can trust.",
+    "description": "We're committed to being your source for expert health guidance. Come to us in your pursuit of wellness.",
+    "links": 449
+  },
+  {
+    "url": "https://nih.gov/",
+    "title": "National Institutes of Health (NIH) |",
+    "description": "Official website of the National Institutes of Health (NIH). NIH is one of the world's foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the Federal focal point for health and medical researc",
+    "links": 344
+  },
+  {
+    "url": "https://who.int/",
+    "title": "World Health Organization (WHO)",
+    "description": "The United Nations agency working to promote health, keep the world safe and serve the vulnerable.",
+    "links": 497
+  },
+  {
+    "url": "https://un.org/",
+    "title": "Welcome to the United Nations",
+    "description": "الأمم المتحدة",
+    "links": 272
+  },
+  {
+    "url": "https://unesco.org/",
+    "title": "UNESCO : Building Peace through Education, Science and Culture, communication and information",
+    "description": "Learn more about UNESCO's role, vision and results. UNESCO is the United Nations Educational, Scientific and Cultural Organization. Our aim is to promote peace and security through international cooperation",
+    "links": 455
+  },
+  {
+    "url": "https://amnesty.org/",
+    "title": "Amnesty International",
+    "description": "We are a global movement of more than 10 million people in over 150 countries who campaign campaign for a world where human rights are enjoyed by all.",
+    "links": 328
+  },
+  {
+    "url": "https://hrw.org/",
+    "title": "Human Rights Watch | Defending Human Rights Worldwide",
+    "description": "Human Rights Watch defends the rights of people in 100 countries worldwide, spotlighting abuses and bringing perpetrators to justice",
+    "links": 603
+  },
+  {
+    "url": "https://worldbank.org/",
+    "title": "World Bank Group - International Development, Poverty and Sustainability",
+    "description": "With 189 member countries, the World Bank Group is a unique global partnership fighting poverty worldwide through sustainable solutions.",
+    "links": 227
+  },
+  {
+    "url": "https://imf.org/",
+    "title": "International Monetary Fund | IMF",
+    "description": "The International Monetary Fund (IMF) works to achieve sustainable growth and prosperity for all of its 191 member countries. It does so by supporting economic policies that promote financial stability and monetary cooperation, which are essential to",
+    "links": 442
+  },
+  {
+    "url": "https://ted.com/",
+    "title": "TED: Ideas change everything",
+    "description": "Subscribe",
+    "links": 227
+  },
+  {
+    "url": "https://khanacademy.org/",
+    "title": "Khan Academy",
+    "description": "",
+    "links": 180
+  },
+  {
+    "url": "https://coursera.org/",
+    "title": "Coursera | Courses, Professional Certificates, and Degrees Online",
+    "description": "Learn in-demand skills with online courses and Professional Certificates from leading companies like Google, IBM, Meta, and Adobe. Explore flexible programs—from short courses to full degrees.",
+    "links": 311
+  },
+  {
+    "url": "https://edx.org/",
+    "title": "edX | Online Courses, Certificates & Degrees from Leading Institutions",
+    "description": "Find the online learning path for you, delivered by world-class institutions like Harvard, Google, Amazon, and more.",
+    "links": 227
+  },
+  {
+    "url": "https://duolingo.com/",
+    "title": "Duolingo",
+    "description": "Duolingo is the world's most popular way to learn a language. It's 100% free, fun and science-based. Practice online on duolingo.com or on the apps!",
+    "links": 130
+  },
+  {
+    "url": "https://britannica.com/",
+    "title": "Encyclopedia Britannica | Britannica",
+    "description": "Explore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands of objective articles, biographies, videos, and images from experts.",
+    "links": 335
+  },
+  {
+    "url": "https://dictionary.com/",
+    "title": "Meanings & Definitions of English Words | Dictionary.com",
+    "description": "The world's leading online dictionary: English definitions, synonyms, word origins, example sentences, word games, and more. A trusted authority for 25+ years!",
+    "links": 160
+  },
+  {
+    "url": "https://thesaurus.com/",
+    "title": "Synonyms and Antonyms of Words | Thesaurus.com",
+    "description": "Thesaurus.com is the world's largest and most trusted online thesaurus for 25+ years. Join millions of people and grow your mastery of the English language.",
+    "links": 128
+  },
+  {
+    "url": "https://merriam-webster.com/",
+    "title": "Merriam-Webster: America's Most Trusted Dictionary",
+    "description": "Find definitions for over 300,000 words from the most authoritative English dictionary. Continuously updated with new words and meanings.",
+    "links": 279
+  },
+  {
+    "url": "https://airbnb.com/",
+    "title": "Airbnb: Holiday Rentals, Cabins, Beach Houses, Unique Homes & Experiences",
+    "description": "Get an Airbnb for every kind of trip → 7 million holiday rentals → 2 million Guest favourites → 220+ countries and regions worldwide",
+    "links": 182
+  },
+  {
+    "url": "https://lonelyplanet.com/",
+    "title": "Travel Guides & Travel Inspiration - Lonely Planet",
+    "description": "Love travel? Discover, plan and book your perfect trip with expert advice, travel guides, destination information and inspiration from Lonely Planet.",
+    "links": 331
+  },
+  {
+    "url": "https://yelp.com/",
+    "title": "Restaurants, Dentists, Bars, Beauty Salons, Doctors - Yelp",
+    "description": "User Reviews and Recommendations of Best Restaurants, Shopping, Nightlife, Food, Entertainment, Things to Do, Services and More at Yelp",
+    "links": 86
+  },
+  {
+    "url": "https://zillow.com/",
+    "title": "Zillow: Real Estate, Apartments, Mortgages & Home Values",
+    "description": "The leading real estate marketplace. Search millions of for-sale and rental listings, compare Zestimate® home values and connect with local professionals.",
+    "links": 312
+  },
+  {
+    "url": "https://ebay.com/",
+    "title": "Electronics, Cars, Fashion, Collectibles & More | eBay",
+    "description": "Buy & sell electronics, cars, clothes, collectibles & more on eBay, the world's online marketplace. Top brands, low prices & free shipping on many items.",
+    "links": 257
+  },
+  {
+    "url": "https://shopify.com/",
+    "title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify",
+    "description": "Try Shopify free and start a business or grow an existing one. Get more than ecommerce software with tools to manage every part of your business.",
+    "links": 284
+  },
+  {
+    "url": "https://walmart.com/",
+    "title": "Walmart | Save Money. Live better.",
+    "description": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store and free shipping with no order minimum. Start your free 30-day trial now!",
+    "links": 64
+  },
+  {
+    "url": "https://target.com/",
+    "title": "Target : Expect More. Pay Less.",
+    "description": "Shop Target online and in-store for everything from groceries and essentials to clothing and electronics. Choose contactless pickup or delivery today.",
+    "links": 78
+  },
+  {
+    "url": "https://lowes.com/",
+    "title": "Access Denied",
+    "description": "Reference #18.f6548795.1771127819.bffe35f\nhttps://errors.edgesuite.net/18.f6548795.1771127819.bffe35f",
+    "links": 10
+  },
+  {
+    "url": "https://ikea.com/",
+    "title": "Hej! Welcome to IKEA Global",
+    "description": "Furniture, home accessories, design ideas and inspiration for big dreams and small budgets. A better everyday life begins at home!",
+    "links": 159
+  },
+  {
+    "url": "https://nike.com/",
+    "title": "Nike. Just Do It. Nike AU",
+    "description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+    "links": 460
+  },
+  {
+    "url": "https://spotify.com/",
+    "title": "Spotify - Web Player: Music for everyone",
+    "description": "Spotify is a digital music service that gives you access to millions of songs.",
+    "links": 10
+  },
+  {
+    "url": "https://soundcloud.com/",
+    "title": "Stream and listen to music online for free with SoundCloud",
+    "description": "Discover and play over 320 million music tracks. Join the world’s largest online community of artists, bands, DJs, and audio creators.",
+    "links": 13
+  },
+  {
+    "url": "https://pandora.com/",
+    "title": "Pandora",
+    "description": "",
+    "links": 14
+  },
+  {
+    "url": "https://last.fm/",
+    "title": "Last.fm | Play music, find songs, and discover artists",
+    "description": "The world's largest online music service. Listen online, find out more about your favourite artists, and get music recommendations, only at Last.fm",
+    "links": 50
+  },
+  {
+    "url": "https://pitchfork.com/",
+    "title": "Pitchfork | The Most Trusted Voice in Music. | Pitchfork",
+    "description": "The Most Trusted Voice in Music.",
+    "links": 103
+  },
+  {
+    "url": "https://rollingstone.com/",
+    "title": "Rolling Stone – Music, Film, TV and Political News Coverage",
+    "description": "Get the latest Rolling Stone news with exclusive stories and pictures from Rolling Stone.",
+    "links": 201
+  },
+  {
+    "url": "https://billboard.com/",
+    "title": "Billboard – Music Charts, News, Photos & Video",
+    "description": "Music Charts, News, Photos &amp;amp; Video",
+    "links": 436
+  },
+  {
+    "url": "https://nme.com/",
+    "title": "NME | Music, Film, TV, Gaming & Pop Culture News",
+    "description": "NME brings you the latest music and pop culture news and reviews, along with videos and galleries, band features, concert tickets, magazine, radio and more.",
+    "links": 250
+  }
+]
