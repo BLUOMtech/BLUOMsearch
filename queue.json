@@ -1,0 +1,7 @@
+{
+  "https://wikipedia.org/": { "original_url": "https://www.wikipedia.org", "links": 1 },
+  "https://bbc.com/": { "original_url": "https://www.bbc.com", "links": 1 },
+  "https://nytimes.com/": { "original_url": "https://www.nytimes.com", "links": 1 },
+  "https://theguardian.com/": { "original_url": "https://www.theguardian.com", "links": 1 },
+  "https://reuters.com/": { "original_url": "https://www.reuters.com", "links": 1 }
+}
